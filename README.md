@@ -1,4 +1,4 @@
-# Event Management Platform
+# 📅 Event Management Platform
 
 An all-in-one platform designed to streamline event organization, enhance team collaboration, and improve productivity. This platform is tailored for event organizers to plan and execute events seamlessly, ensuring smooth communication, effective resource management, and successful outcomes.
 
@@ -47,3 +47,5 @@ This platform is ideal for:
 
 ## Get Started
 Start organizing your events efficiently today! With this platform, you can focus on creating memorable experiences while leaving the complexities of planning to us.
+
+🌐 Live Demo: https://hackspireevents.netlify.app/
